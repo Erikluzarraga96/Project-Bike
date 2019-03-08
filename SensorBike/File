@@ -39,9 +39,9 @@ digitalWrite(6, HIGH);
        valor = constrain(valor, minimo, maximo);
        // Mostramos a través del monitor serie el valor para ajustar máx y min.
        Serial.println(valor);
-       // Acomodamos el valor leido y ajustado, a un valor proporcional entre 0 y 255
+       // Acomodamos el valor leido y ajustado, a un valor proporcional entre 0 y 1000
        // - Cuando hay plena luz (máximo) --> Valor = 0
-       // - Cuando no hay luz (mínimo) --> Valor = 255
+       // - Cuando no hay luz (mínimo) --> Valor = 1000
        Serial.println("LA DISTANCIA MEDIDA ES:");
        Serial.println(dis);
        Serial.println("valor");
