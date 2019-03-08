@@ -46,7 +46,7 @@ digitalWrite(6, HIGH);
        Serial.println(dis);
        Serial.println("valor");
        delay(500); 
-       valor = map(valor, maximo, minimo, 0, 255);
+       valor = map(valor, maximo, minimo, 0, 1000);
        // Aplicamos el valor obtenido a un LED mediante PWM
        analogWrite(LED, valor);  
       }       
