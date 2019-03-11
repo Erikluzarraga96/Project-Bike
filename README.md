@@ -1,22 +1,22 @@
 # Project-Bike
-SLA Bike
+SLA Bike<br/>
 
 
 
-ÍNDICE                                                                                    Erik Luzarraga Fernandez
+ÍNDICE                                                                                    Erik Luzarraga Fernandez<br/>
 
 
-INTRODUCCIÓN	1
-OBJETIVO	2
-MEMORIA DE FUNCIONAMIENTO	3
-HC-SR04	3.1
-SENSOR LDR	3.2
-BUZZER	3.3
-ARDUINO NANO	3.4
-FOCO LED	3.5
-PUESTA EN MARCHA Y AJUSTES	4
-PRESUPUESTO	5
-CONCLUSIONES	6
-REFERENCIAS	7
+INTRODUCCIÓN	1<br/>
+OBJETIVO	2<br/>
+MEMORIA DE FUNCIONAMIENTO	3<br/>
+HC-SR04	3.1<br/>
+SENSOR LDR	3.2<br/>
+BUZZER	3.3<br/>
+ARDUINO NANO	3.4<br/>
+FOCO LED	3.5<br/>
+PUESTA EN MARCHA Y AJUSTES	4<br/>
+PRESUPUESTO	5<br/>
+CONCLUSIONES	6<br/>
+REFERENCIAS	7<br/>
                                                                                                                       
 
