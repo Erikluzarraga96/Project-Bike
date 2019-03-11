@@ -1,9 +1,9 @@
 # Project-Bike
-SLA Bike<br/>
+SLA Bike(ERIK LUZARRAGA FERNANDEZ)<br/>
 
 
 
-ÍNDICE                                                                                    Erik Luzarraga Fernandez<br/>
+ÍNDICE<br/>                                                                                  
 
 
 INTRODUCCIÓN	1<br/>
